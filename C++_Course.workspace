@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="C++_Course" Database="" Version="10.0.0">
   <Project Name="Test1" Path="Test1/Test1.project" Active="No"/>
-  <Project Name="Project1" Path="Project1/Project1.project" Active="Yes"/>
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Project3" Path="Project3/Project3.project" Active="No"/>
+  <Project Name="Project4" Path="Project4/Project4.project" Active="Yes"/>
+  <Project Name="Project5" Path="Project5/Project5.project" Active="No"/>
+  <Project Name="Project6" Path="Project6/Project6.project"/>
+  <Project Name="Project7" Path="Project7/Project7.project"/>
+  <Project Name="Project8" Path="Project8/Project8.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="Test1" ConfigName="Debug"/>
       <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Project3" ConfigName="Debug"/>
+      <Project Name="Project4" ConfigName="Debug"/>
+      <Project Name="Project5" ConfigName="Debug"/>
+      <Project Name="Project6" ConfigName="Debug"/>
+      <Project Name="Project7" ConfigName="Debug"/>
+      <Project Name="Project8" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="Test1" ConfigName="Release"/>
       <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Project3" ConfigName="Release"/>
+      <Project Name="Project4" ConfigName="Release"/>
+      <Project Name="Project5" ConfigName="Release"/>
+      <Project Name="Project6" ConfigName="Release"/>
+      <Project Name="Project7" ConfigName="Release"/>
+      <Project Name="Project8" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
